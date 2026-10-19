@@ -1,0 +1,835 @@
+{
+ "Q01": {
+  "query": "What is the maximum fine a company can face if weak security leads to a leak of its customers' personal data?",
+  "category": "Exception / penalty elsewhere",
+  "reference": "Up to Rs 250 crore for failing to take reasonable security safeguards under s.8(5) (Schedule, item 1).",
+  "gold_chunks": [
+   103
+  ],
+  "baseline": {
+   "top3": [
+    66,
+    28,
+    103
+   ],
+   "answer": "A company that fails to take reasonable security safeguards and thereby causes a personal data breach can be fined up to **₹250 crore** [ S3 ].",
+   "llm_s": 5.134
+  },
+  "rerank": {
+   "top3": [
+    103,
+    28,
+    66
+   ],
+   "answer": "The maximum fine for a breach of the obligation to take reasonable security safeguards—i.e., when weak security leads to a personal data leak—is up to ₹250 crore [ S1 ].",
+   "llm_s": 0.52
+  }
+ },
+ "Q02": {
+  "query": "How much can an ordinary person be fined for making a fake complaint against a company?",
+  "category": "Exception / penalty elsewhere",
+  "reference": "s.15(d) bars false or frivolous grievances; breach of a Data Principal's duties: up to Rs 10,000 (Schedule, item 5).",
+  "gold_chunks": [
+   103
+  ],
+  "baseline": {
+   "top3": [
+    104,
+    82,
+    103
+   ],
+   "answer": "The provided extracts do not answer this question.",
+   "llm_s": 0.557
+  },
+  "rerank": {
+   "top3": [
+    104,
+    103,
+    73
+   ],
+   "answer": "The provided extracts do not answer this question.",
+   "llm_s": 0.553
+  }
+ },
+ "Q03": {
+  "query": "What is the penalty for a company that does not report a data breach to the Board?",
+  "category": "Exception / penalty elsewhere",
+  "reference": "Up to Rs 200 crore for not notifying the Board / affected persons under s.8(6) (Schedule, item 2).",
+  "gold_chunks": [
+   103
+  ],
+  "baseline": {
+   "top3": [
+    82,
+    66,
+    103
+   ],
+   "answer": "The penalty for failing to give the Board (or the affected Data Principal) notice of a personal data breach is up to ₹200 crore rupees【S3】.",
+   "llm_s": 0.634
+  },
+  "rerank": {
+   "top3": [
+    103,
+    66,
+    67
+   ],
+   "answer": "The provided extracts do not answer this question.",
+   "llm_s": 0.828
+  }
+ },
+ "Q04": {
+  "query": "Does this law cover phone numbers I save on my phone for my own personal use?",
+  "category": "Exception / penalty elsewhere",
+  "reference": "No. s.3(c)(i): the Act does not apply to personal data processed by an individual for a personal or domestic purpose.",
+  "gold_chunks": [
+   7
+  ],
+  "baseline": {
+   "top3": [
+    14,
+    21,
+    19
+   ],
+   "answer": "The provided extracts do not answer this question.",
+   "llm_s": 0.403
+  },
+  "rerank": {
+   "top3": [
+    21,
+    14,
+    19
+   ],
+   "answer": "The provided extracts do not answer this question.",
+   "llm_s": 0.582
+  }
+ },
+ "Q05": {
+  "query": "Can a startup skip giving its users a privacy notice?",
+  "category": "Exception / penalty elsewhere",
+  "reference": "Only if notified: s.17(3) lets the Government exempt notified Data Fiduciaries, including startups, from s.5 (notice), s.8(3), 8(7), s.10 and s.11.",
+  "gold_chunks": [
+   51
+  ],
+  "baseline": {
+   "top3": [
+    51,
+    11,
+    12
+   ],
+   "answer": "A startup can be exempted from the notice‑giving requirement only if the Central Government has specifically notified it (or its class) under Section 17(3). In that case the provisions of Section 5 – which mandates a privacy notice – do not apply to that startup [S1]. If no such exemption has been issued, the startup must still provide the notice described in Section 5 [S2][S3].",
+   "llm_s": 0.689
+  },
+  "rerank": {
+   "top3": [
+    51,
+    12,
+    11
+   ],
+   "answer": "A startup that has been notified by the Central Government as a “Data Fiduciary” under the exemption provision can be relieved of the notice‑giving obligations, because the exemption expressly removes the application of Section 5 to such fiduciaries [S1]. Therefore, if the startup obtains the required exemption, it may skip providing the privacy notice required under Section 5. (If the startup is not covered by that exemption, the notice requirement still applies.)",
+   "llm_s": 0.732
+  }
+ },
+ "Q06": {
+  "query": "Does a company still need my consent if the police are investigating a crime involving my data?",
+  "category": "Exception / penalty elsewhere",
+  "reference": "No. s.17(1)(c): Chapter II (except s.8(1) and 8(5)), Chapter III and s.16 do not apply to processing for prevention, detection, investigation or prosecution of offences.",
+  "gold_chunks": [
+   47
+  ],
+  "baseline": {
+   "top3": [
+    20,
+    93,
+    19
+   ],
+   "answer": "The provided extracts do not answer this question.",
+   "llm_s": 0.479
+  },
+  "rerank": {
+   "top3": [
+    17,
+    19,
+    14
+   ],
+   "answer": "The provided extracts do not answer this question.",
+   "llm_s": 6.276
+  }
+ },
+ "Q07": {
+  "query": "Can my data be used without my consent for a research study?",
+  "category": "Exception / penalty elsewhere",
+  "reference": "s.17(2)(b): the Act does not apply to processing for research, archiving or statistical purposes if the data is not used for decisions specific to the person and prescribed standards are followed.",
+  "gold_chunks": [
+   50
+  ],
+  "baseline": {
+   "top3": [
+    17,
+    20,
+    33
+   ],
+   "answer": "The provided extracts do not answer this question.",
+   "llm_s": 4.428
+  },
+  "rerank": {
+   "top3": [
+    17,
+    19,
+    14
+   ],
+   "answer": "The provided extracts do not answer this question.",
+   "llm_s": 4.427
+  }
+ },
+ "Q08": {
+  "query": "Is an app allowed to show personalised ads to a 15-year-old user?",
+  "category": "Negation / constraint",
+  "reference": "No. s.9(3) prohibits tracking, behavioural monitoring and targeted advertising directed at children (under 18, s.2(f)); exceptions only as prescribed under s.9(4).",
+  "gold_chunks": [
+   34
+  ],
+  "baseline": {
+   "top3": [
+    8,
+    34,
+    18
+   ],
+   "answer": "The Act prohibits a Data Fiduciary from undertaking targeted advertising directed at children, which includes a 15‑year‑old user【S2】. Only if the Central Government were to issue a specific notification exempting that Data Fiduciary for a certain age would the rule not apply, but no such exemption is mentioned in the extracts【S2】. Hence, the app may not show personalised ads to a 15‑year‑old.",
+   "llm_s": 4.864
+  },
+  "rerank": {
+   "top3": [
+    34,
+    18,
+    23
+   ],
+   "answer": "The Act bars a Data Fiduciary from “targeted advertising directed at children” (i.e., persons under the age of a child)【S1】. Therefore, an app may not show personalised ads to a 15‑year‑old user unless the Central Government has issued a notification exempting that age group for that specific Data Fiduciary【S1】. Without such an exemption, the practice is prohibited.",
+   "llm_s": 6.916
+  }
+ },
+ "Q09": {
+  "query": "Does a Data Protection Officer have to be located in India?",
+  "category": "Negation / constraint",
+  "reference": "Yes. s.10(2)(a)(ii): the DPO of a Significant Data Fiduciary must be based in India.",
+  "gold_chunks": [
+   36
+  ],
+  "baseline": {
+   "top3": [
+    46,
+    47,
+    7
+   ],
+   "answer": "The provided extracts do not answer this question.",
+   "llm_s": 5.684
+  },
+  "rerank": {
+   "top3": [
+    36,
+    46,
+    47
+   ],
+   "answer": "Yes. The Data Protection Officer must be based in India — the Act requires the DPO to “be based in India”【S1】.",
+   "llm_s": 6.186
+  }
+ },
+ "Q10": {
+  "query": "Can a company hand my data to an outside vendor for processing without any contract?",
+  "category": "Negation / constraint",
+  "reference": "No. s.8(2): a Data Fiduciary may engage a Data Processor only under a valid contract.",
+  "gold_chunks": [
+   26
+  ],
+  "baseline": {
+   "top3": [
+    21,
+    19,
+    26
+   ],
+   "answer": "A Data Fiduciary may involve a Data Processor to handle personal data only **under a valid contract**; it cannot do so without such an agreement. Thus, a company cannot hand your data to an outside vendor for processing unless it has a proper contract in place [S3].",
+   "llm_s": 5.948
+  },
+  "rerank": {
+   "top3": [
+    19,
+    26,
+    46
+   ],
+   "answer": "No. A Data Fiduciary may engage a Data Processor to process personal data on its behalf only under a valid contract; it cannot hand the data to an outside vendor without such a contract【S2】. The extracts do not address any other conditions that would permit processing without a contract.",
+   "llm_s": 5.405
+  }
+ },
+ "Q11": {
+  "query": "Can I sue a company in a civil court over misuse of my personal data?",
+  "category": "Negation / constraint",
+  "reference": "No. s.39 bars civil courts from matters the Board is empowered to decide; complaints go to the Board (appeal to the Appellate Tribunal).",
+  "gold_chunks": [
+   91
+  ],
+  "baseline": {
+   "top3": [
+    39,
+    21,
+    31
+   ],
+   "answer": "The provided extracts do not answer this question.",
+   "llm_s": 4.876
+  },
+  "rerank": {
+   "top3": [
+    66,
+    28,
+    41
+   ],
+   "answer": "The provided extracts do not answer this question.",
+   "llm_s": 4.687
+  }
+ },
+ "Q12": {
+  "query": "Am I allowed to pretend to be someone else when giving my personal data to a service?",
+  "category": "Negation / constraint",
+  "reference": "No. s.15(b): a Data Principal must not impersonate another person; breach of duties can draw up to Rs 10,000.",
+  "gold_chunks": [
+   45
+  ],
+  "baseline": {
+   "top3": [
+    21,
+    45,
+    19
+   ],
+   "answer": "No. You must not impersonate another person when you provide your personal data to a service; doing so would violate your duties as a Data Principal (b) [ S2 ].",
+   "llm_s": 5.897
+  },
+  "rerank": {
+   "top3": [
+    14,
+    21,
+    22
+   ],
+   "answer": "The provided extracts do not answer this question.",
+   "llm_s": 7.002
+  }
+ },
+ "Q13": {
+  "query": "Can I take back my permission after I have agreed to let a company use my data?",
+  "category": "Keyword trap / synonym",
+  "reference": "Yes. s.6(4): consent can be withdrawn at any time, as easily as it was given; earlier processing stays lawful (s.6(5)).",
+  "gold_chunks": [
+   17
+  ],
+  "baseline": {
+   "top3": [
+    29,
+    39,
+    20
+   ],
+   "answer": "Yes. You may withdraw the permission you gave a company to process your personal data. A Data Principal can give, manage, review or withdraw consent through a Consent Manager, and the Data Fiduciary must erase your data once you withdraw consent (or when the purpose ends) [S3]; the Fiduciary must also ensure any Data Processor erases the data [S1].",
+   "llm_s": 3.694
+  },
+  "rerank": {
+   "top3": [
+    17,
+    29,
+    19
+   ],
+   "answer": "Yes. You may withdraw the permission (consent) you gave for a company (the Data Fiduciary) to process your personal data at any time, and the withdrawal must be as easy as giving the consent [S1]. Once you withdraw, the Data Fiduciary must, within a reasonable time, stop processing your data and must also make any Data Processor it uses stop processing, unless the processing is otherwise required or authorised by law [S3]. The withdrawal does not affect the legality of any processing that occurred before you withdrew your consent [S1].",
+   "llm_s": 5.73
+  }
+ },
+ "Q14": {
+  "query": "If hackers steal user data, who does the company have to inform?",
+  "category": "Keyword trap / synonym",
+  "reference": "s.8(6): the Board and each affected Data Principal, in the prescribed form and manner.",
+  "gold_chunks": [
+   28
+  ],
+  "baseline": {
+   "top3": [
+    28,
+    21,
+    39
+   ],
+   "answer": "The company (the Data Fiduciary) must notify both the Board (the data‑protection regulator) and every Data Principal whose personal data was affected by the breach【S1】.",
+   "llm_s": 5.813
+  },
+  "rerank": {
+   "top3": [
+    39,
+    28,
+    19
+   ],
+   "answer": "The company must notify both the Data Protection Board and every Data Principal whose personal data was affected by the breach — the Board and each affected individual must receive intimation in the form and manner prescribed 【S2】.",
+   "llm_s": 5.797
+  }
+ },
+ "Q15": {
+  "query": "What happens to my data rights after I die?",
+  "category": "Keyword trap / synonym",
+  "reference": "s.14: a Data Principal may nominate another individual to exercise her rights in the event of death or incapacity.",
+  "gold_chunks": [
+   44
+  ],
+  "baseline": {
+   "top3": [
+    41,
+    29,
+    38
+   ],
+   "answer": "The provided extracts do not answer this question.",
+   "llm_s": 5.589
+  },
+  "rerank": {
+   "top3": [
+    17,
+    41,
+    40
+   ],
+   "answer": "The provided extracts do not answer this question.",
+   "llm_s": 3.619
+  }
+ },
+ "Q16": {
+  "query": "Whose permission is needed before a website collects data about a child?",
+  "category": "Keyword trap / synonym",
+  "reference": "s.9(1): verifiable consent of the parent or lawful guardian.",
+  "gold_chunks": [
+   33
+  ],
+  "baseline": {
+   "top3": [
+    33,
+    34,
+    39
+   ],
+   "answer": "A website (Data Fiduciary) must obtain verifiable consent from the child’s parent or lawful guardian before collecting the child’s personal data【S1】.",
+   "llm_s": 5.467
+  },
+  "rerank": {
+   "top3": [
+    33,
+    34,
+    14
+   ],
+   "answer": "A website must obtain verifiable consent from the child’s parent or lawful guardian before collecting the child’s personal data【S1】.",
+   "llm_s": 5.753
+  }
+ },
+ "Q17": {
+  "query": "How many days do I get to appeal against an order of the Data Protection Board?",
+  "category": "Other",
+  "reference": "s.29(2): sixty days from receipt of the order, before the Appellate Tribunal (late appeals allowed for sufficient cause).",
+  "gold_chunks": [
+   74
+  ],
+  "baseline": {
+   "top3": [
+    74,
+    75,
+    76
+   ],
+   "answer": "You must file an appeal within **sixty days** from the date you receive the Board’s order or direction【S1】.",
+   "llm_s": 5.186
+  },
+  "rerank": {
+   "top3": [
+    74,
+    75,
+    76
+   ],
+   "answer": "You must file an appeal within **sixty days** from the date you receive the Board’s order or direction【S1】.",
+   "llm_s": 5.186
+  }
+ },
+ "Q18": {
+  "query": "Can my personal data be stored on servers in a foreign country?",
+  "category": "Other",
+  "reference": "Yes, unless the Government restricts transfer to a notified country (s.16(1)); stricter sector laws still apply (s.16(2)).",
+  "gold_chunks": [
+   46
+  ],
+  "baseline": {
+   "top3": [
+    46,
+    7,
+    39
+   ],
+   "answer": "Yes, personal data may be stored on servers outside India, but the Central Government can restrict such transfers by notification, and any Indian law that provides a higher level of protection will still apply【S1】. Moreover, the Act applies to processing of digital personal data outside India when it is connected to offering goods or services to persons in India【S2】. What is missing from the extracts is the detailed procedural requirements (e.g., obtaining consent, data protection impact assessments, or contractual safeguards) that a Data Fiduciary must follow before transferring data abroad.",
+   "llm_s": 5.081
+  },
+  "rerank": {
+   "top3": [
+    46,
+    50,
+    7
+   ],
+   "answer": "Yes, your personal data may be stored on servers located in a foreign country, provided that the transfer is not restricted by a government notification under Section 16(1) and the processing is connected with offering goods or services to persons in India (i.e., it falls within the scope of the Act) [S1][S3]. If the Central Government issues a notification prohibiting such a transfer, or a higher‑protective Indian law applies, the storage would be barred [S1].",
+   "llm_s": 6.655
+  }
+ },
+ "Q19": {
+  "query": "How long can a company keep my data after I delete my account?",
+  "category": "Other",
+  "reference": "s.8(7): it must erase the data once consent is withdrawn or the purpose is no longer served, unless the law requires retention.",
+  "gold_chunks": [
+   29
+  ],
+  "baseline": {
+   "top3": [
+    29,
+    30,
+    41
+   ],
+   "answer": "A company must erase your personal data as soon as the purpose for which it was collected is no longer being served, unless a law requires it to retain the data for a specific period. For example, a bank must keep client identity records for ten years after an account is closed because banking law mandates that retention [S2]. If no such legal requirement applies, the data should be deleted promptly after you delete your account [S1].",
+   "llm_s": 5.856
+  },
+  "rerank": {
+   "top3": [
+    30,
+    29,
+    41
+   ],
+   "answer": "A company may retain your personal data after you delete your account only if retention is required to comply with a law that is in force; otherwise it must erase the data as soon as the purpose for which it was collected is no longer being served (or when you withdraw consent)【S1】【S2】. The extracts do not specify a fixed time‑period; the permissible retention period depends on the applicable legal requirement.",
+   "llm_s": 6.074
+  }
+ },
+ "Q20": {
+  "query": "What factors does the Board consider when deciding how big a fine should be?",
+  "category": "Other",
+  "reference": "s.33(2): nature, gravity and duration of the breach, type of data, repetitiveness, gain/loss, mitigation, proportionality and likely impact.",
+  "gold_chunks": [
+   82
+  ],
+  "baseline": {
+   "top3": [
+    82,
+    83,
+    70
+   ],
+   "answer": "The Board must take into account several matters when fixing the amount of a monetary penalty:  \n\n- the nature, gravity and duration of the breach;  \n- the type and nature of the personal data affected;  \n- whether the breach is repetitive;  \n- whether the person gained or avoided a loss because of the breach;  \n- any mitigation actions taken and their timeliness/effectiveness;  \n- whether the penalty is proportionate and effective to secure compliance and deter breach; and  \n- the likely impact of the penalty on the person.  \n\nThese factors are set out in Sections 33(2)(a)‑(e) and (f)‑(g) of the Act【S1】【S2】.",
+   "llm_s": 4.907
+  },
+  "rerank": {
+   "top3": [
+    82,
+    70,
+    68
+   ],
+   "answer": "The Board must take into account several matters when fixing the monetary penalty, namely:  \n\n* the nature, gravity and duration of the breach;  \n* the type and nature of the personal data affected;  \n* whether the breach is repetitive;  \n* whether the person gained financially or avoided a loss because of the breach; and  \n* any steps the person took to mitigate the breach’s effects, including how timely and effective those steps were【S1】.",
+   "llm_s": 6.796
+  }
+ },
+ "Q21": {
+  "query": "Can a company refuse me a service just because I won't agree to share data it doesn't actually need?",
+  "category": "Negation / constraint",
+  "reference": "Consent must be limited to data necessary for the specified purpose (s.6(1)); consent to extra data is not required for the service (see the telemedicine illustration).",
+  "gold_chunks": [
+   14
+  ],
+  "baseline": {
+   "top3": [
+    19,
+    21,
+    29
+   ],
+   "answer": "The provided extracts do not answer this question.",
+   "llm_s": 5.912
+  },
+  "rerank": {
+   "top3": [
+    22,
+    14,
+    39
+   ],
+   "answer": "Under the DPDP Act, consent must be “specific… and limited to such personal data as is necessary for such specified purpose” [ S2 ]. Therefore a data fiduciary may not condition the provision of a service on the sharing of personal data that is not required for that service; refusing the service on that basis would violate the consent requirement. (The extracts do not spell out any explicit remedy for refusal, but the limitation on consent implies such a refusal is not permitted.)",
+   "llm_s": 5.247
+  }
+ },
+ "Q22": {
+  "query": "Can I ask a company to fix wrong information it holds about me?",
+  "category": "Keyword trap / synonym",
+  "reference": "Yes. s.12(1)-(2): right to correction, completion, updating and erasure; the Data Fiduciary must correct inaccurate or misleading data.",
+  "gold_chunks": [
+   40
+  ],
+  "baseline": {
+   "top3": [
+    40,
+    41,
+    31
+   ],
+   "answer": "Yes. Under the DPDP Act you have a right to have inaccurate or misleading personal data corrected. You may make a request in the manner prescribed, and the Data Fiduciary must correct the inaccurate data (and also complete or update it) [S1].",
+   "llm_s": 4.763
+  },
+  "rerank": {
+   "top3": [
+    40,
+    41,
+    39
+   ],
+   "answer": "Yes. Under the DPDP Act you have the right to ask a Data Fiduciary (the company) to correct any inaccurate or misleading personal data it holds about you. The Data Fiduciary must correct the data when it receives such a request【S1】.",
+   "llm_s": 5.026
+  }
+ },
+ "Q23": {
+  "query": "Can I go straight to the Data Protection Board with a complaint, or do I have to complain to the company first?",
+  "category": "Exception / penalty elsewhere",
+  "reference": "s.13(3): the Data Principal must first exhaust the company's grievance redressal before approaching the Board.",
+  "gold_chunks": [
+   43
+  ],
+  "baseline": {
+   "top3": [
+    10,
+    73,
+    15
+   ],
+   "answer": "The provided extracts do not answer this question.",
+   "llm_s": 4.599
+  },
+  "rerank": {
+   "top3": [
+    12,
+    10,
+    15
+   ],
+   "answer": "The provided extracts do not answer this question.",
+   "llm_s": 5.542
+  }
+ },
+ "Q24": {
+  "query": "Does the law protect information I have posted publicly on my blog or social media?",
+  "category": "Exception / penalty elsewhere",
+  "reference": "No. s.3(c)(ii): the Act does not apply to personal data made publicly available by the Data Principal herself.",
+  "gold_chunks": [
+   7,
+   8
+  ],
+  "baseline": {
+   "top3": [
+    8,
+    39,
+    88
+   ],
+   "answer": "The Act does not apply to personal data that you have publicly posted on your blog or social media; such information is excluded from the Act’s protection [S1].",
+   "llm_s": 5.396
+  },
+  "rerank": {
+   "top3": [
+    8,
+    39,
+    102
+   ],
+   "answer": "The Act does not apply to personal data that you have publicly made available on a blog or social media; such information is excluded from the Act’s protection [S1].",
+   "llm_s": 2.489
+  }
+ },
+ "Q25": {
+  "query": "If I have not used an app for years, does the company have to delete my data?",
+  "category": "Keyword trap / synonym",
+  "reference": "s.8(8): the purpose is deemed no longer served if the person does not approach the company for the prescribed period; the data must then be erased (s.8(7)).",
+  "gold_chunks": [
+   30
+  ],
+  "baseline": {
+   "top3": [
+    29,
+    41,
+    21
+   ],
+   "answer": "Yes. Under the DPDP Act a Data Fiduciary must erase personal data when the purpose for which it was collected is no longer being served, unless the data must be retained to comply with any law. Not having used the app for years indicates the original purpose is no longer being served, so the company must delete your data unless a legal requirement compels retention. [S1] [S2]",
+   "llm_s": 7.256
+  },
+  "rerank": {
+   "top3": [
+    19,
+    29,
+    30
+   ],
+   "answer": "The provided extracts do not answer this question.",
+   "llm_s": 4.718
+  }
+ },
+ "Q26": {
+  "query": "If I send my details to a company myself for a particular purpose, does it still need my formal consent?",
+  "category": "Exception / penalty elsewhere",
+  "reference": "No. s.7(a): data voluntarily provided for a specified purpose, without indicating objection, may be processed for that purpose as a legitimate use.",
+  "gold_chunks": [
+   21
+  ],
+  "baseline": {
+   "top3": [
+    93,
+    20,
+    14
+   ],
+   "answer": "Yes. Even when you voluntarily provide your details to a company for a particular purpose, the company must still obtain your formal consent before processing that personal data. Consent must be “free, specific, informed, unconditional and unambiguous with a clear affirmative action” and limited to the data necessary for the stated purpose [S3]. Thus, your self‑submission does not replace the requirement for a valid, documented consent.",
+   "llm_s": 5.918
+  },
+  "rerank": {
+   "top3": [
+    14,
+    16,
+    93
+   ],
+   "answer": "The provided extracts do not answer this question.",
+   "llm_s": 6.794
+  }
+ },
+ "Q27": {
+  "query": "Do government departments also have to erase my data once the purpose is over?",
+  "category": "Exception / penalty elsewhere",
+  "reference": "No. s.17(4): s.8(7) (erasure) and s.12(3) do not apply to processing by the State or its instrumentalities.",
+  "gold_chunks": [
+   52
+  ],
+  "baseline": {
+   "top3": [
+    41,
+    40,
+    29
+   ],
+   "answer": "The provided extracts do not answer this question.",
+   "llm_s": 4.813
+  },
+  "rerank": {
+   "top3": [
+    41,
+    29,
+    40
+   ],
+   "answer": "The provided extracts do not answer this question.",
+   "llm_s": 3.609
+  }
+ },
+ "Q28": {
+  "query": "Will a company tell me which other organisations it shared my data with, even if it shared it with an investigating agency?",
+  "category": "Exception / penalty elsewhere",
+  "reference": "Not always. s.11(1)(b) gives the right to know with whom data was shared, but s.11(2) excludes sharing with Data Fiduciaries authorised by law for prevention/detection/investigation of offences.",
+  "gold_chunks": [
+   39
+  ],
+  "baseline": {
+   "top3": [
+    39,
+    31,
+    38
+   ],
+   "answer": "A Data Principal can request the identities of all other Data Fiduciaries and Data Processors with whom her data has been shared (Section 11 (b))【S3】. However, this requirement does **not** apply when the data is shared with another Data Fiduciary that is authorised by law to obtain it for the purpose of preventing, detecting, investigating, prosecuting or punishing offences or cyber‑incidents【S1】. Therefore, if the company shared your data with an investigating agency that falls under that exemption, it is not obliged to disclose that sharing to you.",
+   "llm_s": 6.268
+  },
+  "rerank": {
+   "top3": [
+    39,
+    38,
+    27
+   ],
+   "answer": "The Act gives you a right to know the identities of all other Data Fiduciaries and Data Processors with whom your data has been shared (clause (b) of §11(1))【S2】.  \nHowever, this right does **not** apply when the data is shared with another Data Fiduciary that is authorised by law to obtain it for the purpose of preventing, detecting, investigating, prosecuting or punishing offences or cyber‑incidents【S1】.  \n\nThus, if the company shared your data with an investigating agency that is a law‑authorised Data Fiduciary, it can lawfully refuse to disclose that sharing.  (The answer is partially supported: the right to know is in S2, the exception is in S1.)",
+   "llm_s": 5.196
+  }
+ },
+ "Q29": {
+  "query": "Can the Data Protection Board seize a company's computers during an inquiry?",
+  "category": "Negation / constraint",
+  "reference": "Generally no. s.28(8): the Board shall not take custody of equipment or items that may adversely affect the day-to-day functioning of a person.",
+  "gold_chunks": [
+   72
+  ],
+  "baseline": {
+   "top3": [
+    53,
+    72,
+    66
+   ],
+   "answer": "The Board may not take custody of equipment or any item that could adversely affect a person’s day‑to‑day functioning; therefore it cannot seize a company’s computers if doing so would disrupt the company’s normal operations【S2】. What is not covered in the extracts is whether the Board could seize such equipment in other circumstances (e.g., with a court order).",
+   "llm_s": 8.091
+  },
+  "rerank": {
+   "top3": [
+    28,
+    53,
+    72
+   ],
+   "answer": "The Board (or its officers) is prohibited from taking custody of any equipment or item that could adversely affect a person’s day‑to‑day functioning; therefore it cannot seize a company’s computers if doing so would disrupt the company’s operations【S3】.",
+   "llm_s": 5.118
+  }
+ },
+ "Q30": {
+  "query": "Can my employer use my personal data without asking for my consent?",
+  "category": "Exception / penalty elsewhere",
+  "reference": "Yes, for employment purposes or safeguarding the employer from loss or liability: a legitimate use under s.7(i).",
+  "gold_chunks": [
+   25
+  ],
+  "baseline": {
+   "top3": [
+    21,
+    39,
+    38
+   ],
+   "answer": "An employer (as a Data Fiduciary) may process your personal data only if you have voluntarily provided it for a specific purpose and you have not told the employer that you do not consent to that use. If either condition is missing, the employer must obtain your consent before using the data【S1】.",
+   "llm_s": 6.446
+  },
+  "rerank": {
+   "top3": [
+    21,
+    19,
+    14
+   ],
+   "answer": "An employer (as a Data Fiduciary) may process your personal data only if you have voluntarily provided it for a specific purpose and have not told the employer that you do not consent to that use — or if you have given a free, specific, informed and unambiguous consent for that purpose [S1][S3]. If you withdraw that consent, the employer must stop processing your data unless another legal exception applies [S2]. Thus, the employer cannot use your data without your consent except where the data was voluntarily supplied for that purpose and you have not objected.",
+   "llm_s": 6.302
+  }
+ },
+ "Q31": {
+  "query": "Can the government remove a member of the Data Protection Board without giving them a hearing?",
+  "category": "Negation / constraint",
+  "reference": "No. s.21(2): a Chairperson or Member cannot be removed unless given an opportunity of being heard.",
+  "gold_chunks": [
+   58
+  ],
+  "baseline": {
+   "top3": [
+    72,
+    19,
+    10
+   ],
+   "answer": "The provided extracts do not answer this question.",
+   "llm_s": 5.43
+  },
+  "rerank": {
+   "top3": [
+    53,
+    72,
+    66
+   ],
+   "answer": "The provided extracts do not answer this question.",
+   "llm_s": 6.778
+  }
+ },
+ "Q32": {
+  "query": "What can the government do if a company keeps getting fined and the Board recommends blocking it?",
+  "category": "Other",
+  "reference": "s.37(1): on a Board reference (penalty imposed in two or more instances) and advice to block, the Government may order blocking of public access to the company's information.",
+  "gold_chunks": [
+   88
+  ],
+  "baseline": {
+   "top3": [
+    104,
+    88,
+    82
+   ],
+   "answer": "If the Board, after finding repeated breaches and imposing penalties, recommends that the data fiduciary be blocked, the Central Government may, after giving the fiduciary a chance to be heard, issue an order directing any central‑government agency or intermediary to block public access to the information that the fiduciary processes or hosts — i.e., to prevent the company from offering its goods or services in India 【S2】. The Board’s finding of a “significant” breach that leads to monetary penalties is set out in the penalty provisions 【S3】.",
+   "llm_s": 4.068
+  },
+  "rerank": {
+   "top3": [
+    88,
+    82,
+    85
+   ],
+   "answer": "The government may issue a direction to block public access to the company’s information or services. Under Section 37(b) the Central Government, after giving the data fiduciary an opportunity to be heard and being satisfied that it is necessary or expedient in the public interest, can order any central agency or intermediary to block such information for public access【S1】.  \n\nThe extracts do not specify any additional steps the government must take when the Board recommends blocking; they only describe the blocking power itself.",
+   "llm_s": 6.862
+  }
+ }
+}

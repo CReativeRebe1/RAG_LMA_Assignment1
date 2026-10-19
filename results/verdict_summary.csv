@@ -1,0 +1,5 @@
+,Answer 1 (baseline),Answer 2 (re-ranked)
+correct,17,16
+misstated rule,2,2
+omitted clause,2,1
+refused,11,13

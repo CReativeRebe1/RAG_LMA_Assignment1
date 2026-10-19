@@ -1,0 +1,9 @@
+torch>=2.1
+sentence-transformers>=5.0
+faiss-cpu>=1.8
+groq>=0.11
+pymupdf>=1.24
+numpy
+pandas
+matplotlib
+jupyter

@@ -1,0 +1,11 @@
+device,stage,mean,median,p95
+cpu,query embedding,16.331,15.883,19.395
+cpu,FAISS top-10 search,0.059,0.057,0.073
+cpu,cross-encoder (10 pairs),333.699,329.796,375.553
+cpu,BASELINE retrieval total,16.389,15.948,19.458
+cpu,RE-RANK pipeline total,350.089,346.15,393.394
+cuda,query embedding,7.153,6.983,8.28
+cuda,FAISS top-10 search,0.048,0.045,0.06
+cuda,cross-encoder (10 pairs),27.004,27.023,28.194
+cuda,BASELINE retrieval total,7.2,7.029,8.326
+cuda,RE-RANK pipeline total,34.204,34.142,35.942

@@ -1,0 +1,317 @@
+{
+ "c68b7c590c5589def73313e800716f759ec252afd91dc0cb4c31e8706d3e8b9a": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "A company that fails to take reasonable security safeguards and thereby causes a personal data breach can be fined up to **₹250 crore** [ S3 ].",
+  "seconds": 5.134
+ },
+ "5b466adf85f2cab6a75bb3f85ca3edcba18ab1c42d04830c5c610e23a048685a": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The maximum fine for a breach of the obligation to take reasonable security safeguards—i.e., when weak security leads to a personal data leak—is up to ₹250 crore [ S1 ].",
+  "seconds": 0.52
+ },
+ "e2057dc50846f47251fc20e8590be60259508959e081488d6203e422411bc10d": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The provided extracts do not answer this question.",
+  "seconds": 0.557
+ },
+ "af7cbad793a2be31b8c069decd9a19fc8b30c7c3ded5ed8fa86bf438579b8f80": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The provided extracts do not answer this question.",
+  "seconds": 0.553
+ },
+ "1f328170c9ab7c96ee3fdcb62c474315313b10fda173ce799f7b9fb1c6e60b82": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The penalty for failing to give the Board (or the affected Data Principal) notice of a personal data breach is up to ₹200 crore rupees【S3】.",
+  "seconds": 0.634
+ },
+ "55d084d0bb3e50c3f65f56c11f3d80f6326da87b348c478ca0a6cda18cd4301d": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The provided extracts do not answer this question.",
+  "seconds": 0.828
+ },
+ "1ca67e349be8bc9b3626ad35f0c0d1d358a385d2994415a0536366d442535f26": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The provided extracts do not answer this question.",
+  "seconds": 0.403
+ },
+ "73fc06d494ab5bad6fc70563bdb5b97a590c02be5bc35b5da2300fceac9339eb": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The provided extracts do not answer this question.",
+  "seconds": 0.582
+ },
+ "e7adb3cd0ec97990b4890a9275412f34b6ad73af810c3b9d5569f4e64b91066c": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "A startup can be exempted from the notice‑giving requirement only if the Central Government has specifically notified it (or its class) under Section 17(3). In that case the provisions of Section 5 – which mandates a privacy notice – do not apply to that startup [S1]. If no such exemption has been issued, the startup must still provide the notice described in Section 5 [S2][S3].",
+  "seconds": 0.689
+ },
+ "8cd431cfdd907c1546b093be2e2ec3352466e697bd7e5ec66e973081a454309e": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "A startup that has been notified by the Central Government as a “Data Fiduciary” under the exemption provision can be relieved of the notice‑giving obligations, because the exemption expressly removes the application of Section 5 to such fiduciaries [S1]. Therefore, if the startup obtains the required exemption, it may skip providing the privacy notice required under Section 5. (If the startup is not covered by that exemption, the notice requirement still applies.)",
+  "seconds": 0.732
+ },
+ "61edd6f4d4e5346966d5a12d906127a7a91b365bdf2207bec921fddc0bf28c9c": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The provided extracts do not answer this question.",
+  "seconds": 0.479
+ },
+ "d7e9212d446c17a21ec5589c5ee87a436958d7dd3a54c56e17902ec7ba1ddfb2": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The provided extracts do not answer this question.",
+  "seconds": 6.276
+ },
+ "02dc285d74079b69d2504e9d87bd786f278c49b491b383469ecda6d80fb8f2e4": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The provided extracts do not answer this question.",
+  "seconds": 4.428
+ },
+ "527a72647cf82670bee3c2c3855a5776c99445e72f446d426bcb68b053895c0a": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The provided extracts do not answer this question.",
+  "seconds": 4.427
+ },
+ "2ed8369d6759876e55e06d02ab3a43fc736c08357adf0cbb899e63cbb5295005": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The Act prohibits a Data Fiduciary from undertaking targeted advertising directed at children, which includes a 15‑year‑old user【S2】. Only if the Central Government were to issue a specific notification exempting that Data Fiduciary for a certain age would the rule not apply, but no such exemption is mentioned in the extracts【S2】. Hence, the app may not show personalised ads to a 15‑year‑old.",
+  "seconds": 4.864
+ },
+ "3896932f57c072c8bb10d51bd8de57acc8b5dff3e37f613d03e6e7013e5824d9": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The Act bars a Data Fiduciary from “targeted advertising directed at children” (i.e., persons under the age of a child)【S1】. Therefore, an app may not show personalised ads to a 15‑year‑old user unless the Central Government has issued a notification exempting that age group for that specific Data Fiduciary【S1】. Without such an exemption, the practice is prohibited.",
+  "seconds": 6.916
+ },
+ "f1c9bc716e0378239c7c6bb8d2fea868330323b834968deebc3300ffb42b7fad": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The provided extracts do not answer this question.",
+  "seconds": 5.684
+ },
+ "da7227e222fa330065515150682a51216f6d5fd58ea9e2e706368848002155f5": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "Yes. The Data Protection Officer must be based in India — the Act requires the DPO to “be based in India”【S1】.",
+  "seconds": 6.186
+ },
+ "c72035986ced9cd050f03b44129db849d3b1fbee4f25a27948786875deb88bcd": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "A Data Fiduciary may involve a Data Processor to handle personal data only **under a valid contract**; it cannot do so without such an agreement. Thus, a company cannot hand your data to an outside vendor for processing unless it has a proper contract in place [S3].",
+  "seconds": 5.948
+ },
+ "b698b167f5d33c2b30741ca00c0c563fbadfeaee50517cd2109e5b2ed18d84d0": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "No. A Data Fiduciary may engage a Data Processor to process personal data on its behalf only under a valid contract; it cannot hand the data to an outside vendor without such a contract【S2】. The extracts do not address any other conditions that would permit processing without a contract.",
+  "seconds": 5.405
+ },
+ "553fce827e25754ff70acd57464a1cbe130b568e0f6f5f9d0ede923186ba1afb": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The provided extracts do not answer this question.",
+  "seconds": 4.876
+ },
+ "7122eb1da127b874518e4b046bb7f893d892979a820a60444fa20de5c9f5d28b": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The provided extracts do not answer this question.",
+  "seconds": 4.687
+ },
+ "1e15b3884c183f2588462e8dab19c16c6bb86ba6081e2a9f7204437715e08819": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "No. You must not impersonate another person when you provide your personal data to a service; doing so would violate your duties as a Data Principal (b) [ S2 ].",
+  "seconds": 5.897
+ },
+ "717e1b1bc75208aabf55fea19c32fb70d17dd5c78c6e00deb3b39533a3c8183b": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The provided extracts do not answer this question.",
+  "seconds": 7.002
+ },
+ "20a2a139e9e2536843742ae4306558251cd7d912bcdacf84e19f01556299e044": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "Yes. You may withdraw the permission you gave a company to process your personal data. A Data Principal can give, manage, review or withdraw consent through a Consent Manager, and the Data Fiduciary must erase your data once you withdraw consent (or when the purpose ends) [S3]; the Fiduciary must also ensure any Data Processor erases the data [S1].",
+  "seconds": 3.694
+ },
+ "a8a2a84fb4012ca561dfe455c0ede562ee64f652152b0b7452e80316b65bb1cf": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "Yes. You may withdraw the permission (consent) you gave for a company (the Data Fiduciary) to process your personal data at any time, and the withdrawal must be as easy as giving the consent [S1]. Once you withdraw, the Data Fiduciary must, within a reasonable time, stop processing your data and must also make any Data Processor it uses stop processing, unless the processing is otherwise required or authorised by law [S3]. The withdrawal does not affect the legality of any processing that occurred before you withdrew your consent [S1].",
+  "seconds": 5.73
+ },
+ "99e6c5bdadfcdc1d23a006cc8c0b6520a0e23d1f7dad99abbb57c6bb4606a10d": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The company (the Data Fiduciary) must notify both the Board (the data‑protection regulator) and every Data Principal whose personal data was affected by the breach【S1】.",
+  "seconds": 5.813
+ },
+ "18bc1adc32049e0100ec0246eaf56cb8ec45d807cd239d5d43b72e7f8cb48211": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The company must notify both the Data Protection Board and every Data Principal whose personal data was affected by the breach — the Board and each affected individual must receive intimation in the form and manner prescribed 【S2】.",
+  "seconds": 5.797
+ },
+ "633c1f79b962952322254ccfeeee5d6450c948fb3d3e3cf7d16073bcffeae45d": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The provided extracts do not answer this question.",
+  "seconds": 5.589
+ },
+ "bc18f48e3c66b4fb28944e74007f12982022c4a88a967ea47856265b42566b6e": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The provided extracts do not answer this question.",
+  "seconds": 3.619
+ },
+ "ec845d2247dac58d21ec12a5f56c0dae6791dc64c430a9ebfd9a44127106281b": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "A website (Data Fiduciary) must obtain verifiable consent from the child’s parent or lawful guardian before collecting the child’s personal data【S1】.",
+  "seconds": 5.467
+ },
+ "3f0634bd5d96ac1d5f0b8c839c3dafe9937003778d8d4b095552af45207ef974": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "A website must obtain verifiable consent from the child’s parent or lawful guardian before collecting the child’s personal data【S1】.",
+  "seconds": 5.753
+ },
+ "13d20bc3cb5a0c0727f48c6117a4efe9010e010cba5f892017a0d91c572cfe7a": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "You must file an appeal within **sixty days** from the date you receive the Board’s order or direction【S1】.",
+  "seconds": 5.186
+ },
+ "e82fde9a98fefdd7de55faf39d0f8c0eac58294a1b55df284f54084202e9a24d": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "Yes, personal data may be stored on servers outside India, but the Central Government can restrict such transfers by notification, and any Indian law that provides a higher level of protection will still apply【S1】. Moreover, the Act applies to processing of digital personal data outside India when it is connected to offering goods or services to persons in India【S2】. What is missing from the extracts is the detailed procedural requirements (e.g., obtaining consent, data protection impact assessments, or contractual safeguards) that a Data Fiduciary must follow before transferring data abroad.",
+  "seconds": 5.081
+ },
+ "0ee4c934fb97a1252fadc6d91acc97eda54ea050042e2c1c2d615d0b960b856c": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "Yes, your personal data may be stored on servers located in a foreign country, provided that the transfer is not restricted by a government notification under Section 16(1) and the processing is connected with offering goods or services to persons in India (i.e., it falls within the scope of the Act) [S1][S3]. If the Central Government issues a notification prohibiting such a transfer, or a higher‑protective Indian law applies, the storage would be barred [S1].",
+  "seconds": 6.655
+ },
+ "cad91ca65003eb67de07368c399bc9859efb19e9f7cc42596b5f9b92467b299b": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "A company must erase your personal data as soon as the purpose for which it was collected is no longer being served, unless a law requires it to retain the data for a specific period. For example, a bank must keep client identity records for ten years after an account is closed because banking law mandates that retention [S2]. If no such legal requirement applies, the data should be deleted promptly after you delete your account [S1].",
+  "seconds": 5.856
+ },
+ "25679980ef082a185641a6fb334623dfb12d53d27c2f39d1f5c1aa523cbbd049": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "A company may retain your personal data after you delete your account only if retention is required to comply with a law that is in force; otherwise it must erase the data as soon as the purpose for which it was collected is no longer being served (or when you withdraw consent)【S1】【S2】. The extracts do not specify a fixed time‑period; the permissible retention period depends on the applicable legal requirement.",
+  "seconds": 6.074
+ },
+ "d9cae9dd867efa45de4c929216e0b1ff22b6ed15bedc922c9ada3a7f77dffc8e": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The Board must take into account several matters when fixing the amount of a monetary penalty:  \n\n- the nature, gravity and duration of the breach;  \n- the type and nature of the personal data affected;  \n- whether the breach is repetitive;  \n- whether the person gained or avoided a loss because of the breach;  \n- any mitigation actions taken and their timeliness/effectiveness;  \n- whether the penalty is proportionate and effective to secure compliance and deter breach; and  \n- the likely impact of the penalty on the person.  \n\nThese factors are set out in Sections 33(2)(a)‑(e) and (f)‑(g) of the Act【S1】【S2】.",
+  "seconds": 4.907
+ },
+ "7772a45d6b9e32ddf4dad4ee0fea045c459c0bb57749158996d8a2b10b118d00": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The Board must take into account several matters when fixing the monetary penalty, namely:  \n\n* the nature, gravity and duration of the breach;  \n* the type and nature of the personal data affected;  \n* whether the breach is repetitive;  \n* whether the person gained financially or avoided a loss because of the breach; and  \n* any steps the person took to mitigate the breach’s effects, including how timely and effective those steps were【S1】.",
+  "seconds": 6.796
+ },
+ "229e3797d7e07296e9b2ab2874c30deca74c363fa9b9e8d1f54089c6129f4c4d": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The provided extracts do not answer this question.",
+  "seconds": 5.912
+ },
+ "c4867aa3f04c06ea1290761ab665807895389522a96fbe6771a29c8c3824797f": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "Under the DPDP Act, consent must be “specific… and limited to such personal data as is necessary for such specified purpose” [ S2 ]. Therefore a data fiduciary may not condition the provision of a service on the sharing of personal data that is not required for that service; refusing the service on that basis would violate the consent requirement. (The extracts do not spell out any explicit remedy for refusal, but the limitation on consent implies such a refusal is not permitted.)",
+  "seconds": 5.247
+ },
+ "07f9d533dfa10c1b9126e2e71131c1060cbc49c1268f90b0ad3b5cb38c7e6af8": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "Yes. Under the DPDP Act you have a right to have inaccurate or misleading personal data corrected. You may make a request in the manner prescribed, and the Data Fiduciary must correct the inaccurate data (and also complete or update it) [S1].",
+  "seconds": 4.763
+ },
+ "292625de2149fc236c5784ca9421e0fac7f08d980d8c68f26b9f677cd6780859": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "Yes. Under the DPDP Act you have the right to ask a Data Fiduciary (the company) to correct any inaccurate or misleading personal data it holds about you. The Data Fiduciary must correct the data when it receives such a request【S1】.",
+  "seconds": 5.026
+ },
+ "037c4f64068db92fe20903d439c2b69416e443c469bf346d3cb6c5507dbaa23e": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The provided extracts do not answer this question.",
+  "seconds": 4.599
+ },
+ "9d159e685cde32f08678a071f64564c5b34ac03e7a241107a5f343e6cde22f32": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The provided extracts do not answer this question.",
+  "seconds": 5.542
+ },
+ "2dcc035aae7af8d1d318bb3e3669baf6b37d39cabc749cb3fa34d4762a55bcee": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The Act does not apply to personal data that you have publicly posted on your blog or social media; such information is excluded from the Act’s protection [S1].",
+  "seconds": 5.396
+ },
+ "705c9f4da4449a59fd111afdd29a0a0ab8a7935cb96ce0d2b55403557fc4be1f": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The Act does not apply to personal data that you have publicly made available on a blog or social media; such information is excluded from the Act’s protection [S1].",
+  "seconds": 2.489
+ },
+ "80859f162d54c3bc133b5eafdcea905029eaae5e468a8d0a64d8f8d413f52aff": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "Yes. Under the DPDP Act a Data Fiduciary must erase personal data when the purpose for which it was collected is no longer being served, unless the data must be retained to comply with any law. Not having used the app for years indicates the original purpose is no longer being served, so the company must delete your data unless a legal requirement compels retention. [S1] [S2]",
+  "seconds": 7.256
+ },
+ "35255cdf3ebd0280339fecd2265848e4c928f32c16aa9f6fa91a5222364a973d": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The provided extracts do not answer this question.",
+  "seconds": 4.718
+ },
+ "094413b693cb4552b2a582589e5df77bc502b5a1c2642ea33e93ad4b22d33707": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "Yes. Even when you voluntarily provide your details to a company for a particular purpose, the company must still obtain your formal consent before processing that personal data. Consent must be “free, specific, informed, unconditional and unambiguous with a clear affirmative action” and limited to the data necessary for the stated purpose [S3]. Thus, your self‑submission does not replace the requirement for a valid, documented consent.",
+  "seconds": 5.918
+ },
+ "53789a187bd607e3193886fc74cf1fac24d07242c1c43cadc22ecabe11f835cd": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The provided extracts do not answer this question.",
+  "seconds": 6.794
+ },
+ "e8982db207cc96d33e12f0dc7e1dfe57effc6fd2da9361c726c9dfa3ed754dd4": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The provided extracts do not answer this question.",
+  "seconds": 4.813
+ },
+ "a6c131fe813cd5755a6fa010d3bb6da9d9a127bc827230459d15e6313c1a2183": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The provided extracts do not answer this question.",
+  "seconds": 3.609
+ },
+ "82291df83edfd43ce22164e2ab6d35a9ed4f8a56dc1b96328bbbe704aec58fc3": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "A Data Principal can request the identities of all other Data Fiduciaries and Data Processors with whom her data has been shared (Section 11 (b))【S3】. However, this requirement does **not** apply when the data is shared with another Data Fiduciary that is authorised by law to obtain it for the purpose of preventing, detecting, investigating, prosecuting or punishing offences or cyber‑incidents【S1】. Therefore, if the company shared your data with an investigating agency that falls under that exemption, it is not obliged to disclose that sharing to you.",
+  "seconds": 6.268
+ },
+ "dc30a566ab731a44f1a5b08eaa305f1f289b6a8b51869b774f9351e5ac66bd97": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The Act gives you a right to know the identities of all other Data Fiduciaries and Data Processors with whom your data has been shared (clause (b) of §11(1))【S2】.  \nHowever, this right does **not** apply when the data is shared with another Data Fiduciary that is authorised by law to obtain it for the purpose of preventing, detecting, investigating, prosecuting or punishing offences or cyber‑incidents【S1】.  \n\nThus, if the company shared your data with an investigating agency that is a law‑authorised Data Fiduciary, it can lawfully refuse to disclose that sharing.  (The answer is partially supported: the right to know is in S2, the exception is in S1.)",
+  "seconds": 5.196
+ },
+ "b90b425294726a9b4d11c4f219306478c676ffe4165d9fcb2220a1dda0cf9bdd": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The Board may not take custody of equipment or any item that could adversely affect a person’s day‑to‑day functioning; therefore it cannot seize a company’s computers if doing so would disrupt the company’s normal operations【S2】. What is not covered in the extracts is whether the Board could seize such equipment in other circumstances (e.g., with a court order).",
+  "seconds": 8.091
+ },
+ "4d0f7e1d7f1f728a301d3018bd3a0f4aaaa4bc8a6d2fdf17ba17a610eeaacbcd": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The Board (or its officers) is prohibited from taking custody of any equipment or item that could adversely affect a person’s day‑to‑day functioning; therefore it cannot seize a company’s computers if doing so would disrupt the company’s operations【S3】.",
+  "seconds": 5.118
+ },
+ "f6c8af88e0e1e6cba8d01a72903d79c594c395debd27917feb0073418d8a993b": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "An employer (as a Data Fiduciary) may process your personal data only if you have voluntarily provided it for a specific purpose and you have not told the employer that you do not consent to that use. If either condition is missing, the employer must obtain your consent before using the data【S1】.",
+  "seconds": 6.446
+ },
+ "e2db912fa2c635e72634d804e84c9f0a1ae396a504e285d55ed0823aaecbc871": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "An employer (as a Data Fiduciary) may process your personal data only if you have voluntarily provided it for a specific purpose and have not told the employer that you do not consent to that use — or if you have given a free, specific, informed and unambiguous consent for that purpose [S1][S3]. If you withdraw that consent, the employer must stop processing your data unless another legal exception applies [S2]. Thus, the employer cannot use your data without your consent except where the data was voluntarily supplied for that purpose and you have not objected.",
+  "seconds": 6.302
+ },
+ "b7c7b0c1035d16dfa5b4cec948c0cb31704f518716ae6b65bb1f6595705935e1": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The provided extracts do not answer this question.",
+  "seconds": 5.43
+ },
+ "955e9e13ad096de6c6e6dbf190243a0a7a2193224acd3e6ce72a33585433e0c4": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The provided extracts do not answer this question.",
+  "seconds": 6.778
+ },
+ "83fb96ec0452df9b3f36519b8403539bdef365621143e9ce0785aaf34364d939": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "If the Board, after finding repeated breaches and imposing penalties, recommends that the data fiduciary be blocked, the Central Government may, after giving the fiduciary a chance to be heard, issue an order directing any central‑government agency or intermediary to block public access to the information that the fiduciary processes or hosts — i.e., to prevent the company from offering its goods or services in India 【S2】. The Board’s finding of a “significant” breach that leads to monetary penalties is set out in the penalty provisions 【S3】.",
+  "seconds": 4.068
+ },
+ "a84443f65ff9ae32875ca9e1c315bfb7a26f3103aebd367ea8000fe9af7a4b25": {
+  "model": "openai/gpt-oss-120b",
+  "answer": "The government may issue a direction to block public access to the company’s information or services. Under Section 37(b) the Central Government, after giving the data fiduciary an opportunity to be heard and being satisfied that it is necessary or expedient in the public interest, can order any central agency or intermediary to block such information for public access【S1】.  \n\nThe extracts do not specify any additional steps the government must take when the Board recommends blocking; they only describe the blocking power itself.",
+  "seconds": 6.862
+ }
+}
